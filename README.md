@@ -1,4 +1,5 @@
 # Inventory Analysis
+<img src="https://drive.google.com/uc?export=view&id=1ebEtsd8OazZg5JEadEf8Cc6ys-A6bUxK" alt="Project Logo" width="200" height="200">
 
 ## Table of Contents
 1. Project Overview
@@ -7,7 +8,7 @@
 4. Setup Instructions
 5. Files Overview
 6. How to Run
-7. Contributors
+7. Power-BI Dashboard Images
 
 ## Project Overview
 The Inventory Analysis Project is designed to analyze and manage inventory data for a business, offering insights into purchase prices, sales, and stock levels. This project utilizes Google Drive API to fetch files, processes the data using Python, and loads it into a MySQL database for storage and analysis. The final goal is to create dashboards and visualizations in Power BI.
@@ -92,3 +93,14 @@ This will create and populate the necessary tables in the inventory_analysis dat
 
 ### 4. Analyze Data in Power BI
 - Connect Power BI to your MySQL database to analyze the data and create visualizations and dashboards.
+
+## Power-BI Dashboard Screenshots
+
+### Home Page
+![Home Page](https://drive.google.com/uc?export=view&id=1KAwZMy35SyGd8E_AjZhrwHqiV1S2V1YF)
+
+### Overview
+![Overview](https://drive.google.com/uc?export=view&id=1HS4ZymHPNCQQ-9yO8T7qwNaZQvTwkQxO)
+
+### Dashboard
+![Dashboard](https://drive.google.com/uc?export=view&id=1FQrfKm00gSqHSFdG-7lLQSi_4ERG2c26)
